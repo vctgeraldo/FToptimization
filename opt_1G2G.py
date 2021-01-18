@@ -1,11 +1,17 @@
 #------------------------------------------------------------#
-#Title: Optimization of a 1G 2G mill...                      #
+#Title: Optimization of a 1G2G FT process                    #
+#                                                            #
 #Authors:                                                    #
 #    1 - Jessica Marcon Bressanin                            #
 #    2 - Victor Coelho Geraldo                               #
-#      - ...                                                 #
+#    3 - Francisco de Assis Magalhães Gomes                  #
+#    4 - Bruno Colling Klein                                 #
+#    5 - Mateus Ferreira Chagas                              #
+#    6 - Marcos Djun Barbosa Watanabe                        #
+#    7 - Antonio Bonomi                                      #
+#    8 - Edvaldo Rodrigo de Morais                           #
+#    9 - Otávio Cavalett                                     #
 #                                                            #
-#Institution: CTBE                                           #
 #------------------------------------------------------------#
 
 
